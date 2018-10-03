@@ -1,0 +1,6 @@
+framework module Pods_Ubream_iOS {
+  umbrella header "Pods-Ubream-iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

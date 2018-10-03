@@ -1,0 +1,75 @@
+
+/* Class = "UIButton"; normalTitle = "ACTIVATE"; ObjectID = "1P1-qc-CEu"; */
+"1P1-qc-CEu.normalTitle" = "ACTIVATE";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "252-yb-M4Y"; */
+"252-yb-M4Y.normalTitle" = "Sign Up";
+
+/* Class = "UILabel"; text = "Please read our "; ObjectID = "4G0-1w-Q0D"; */
+"4G0-1w-Q0D.text" = "Please read our ";
+
+/* Class = "UILabel"; text = "Didn't Receive Activation Code?"; ObjectID = "5ar-o0-sTJ"; */
+"5ar-o0-sTJ.text" = "Didn't Receive Activation Code?";
+
+/* Class = "UILabel"; text = "Invalid Phone Number"; ObjectID = "Aqx-1h-NVX"; */
+"Aqx-1h-NVX.text" = "Invalid Phone Number";
+
+/* Class = "UILabel"; text = "1:20"; ObjectID = "GY5-6B-VPp"; */
+"GY5-6B-VPp.text" = "1:20";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Go5-JY-YOY"; */
+"Go5-JY-YOY.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "HZG-N1-gwh"; */
+"HZG-N1-gwh.placeholder" = "Last Name";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "JvD-WM-xCA"; */
+"JvD-WM-xCA.text" = "City";
+
+/* Class = "UIButton"; normalTitle = "Resend"; ObjectID = "K90-aC-HNr"; */
+"K90-aC-HNr.normalTitle" = "Resend";
+
+/* Class = "UILabel"; text = "Please fill the activation code below"; ObjectID = "M1u-Vm-u05"; */
+"M1u-Vm-u05.text" = "Please fill the activation code below";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "S6I-Xx-m0P"; */
+"S6I-Xx-m0P.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "SDr-vJ-Qpt"; */
+"SDr-vJ-Qpt.normalTitle" = "Sign Up";
+
+/* Class = "UIButton"; normalTitle = "Terms and Conditions"; ObjectID = "Udt-cc-VK5"; */
+"Udt-cc-VK5.normalTitle" = "Terms and Conditions";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ven-98-SQy"; */
+"Ven-98-SQy.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "W9C-fN-b0z"; */
+"W9C-fN-b0z.placeholder" = "First Name";
+
+/* Class = "UILabel"; text = "Customer"; ObjectID = "XIF-j7-s9x"; */
+"XIF-j7-s9x.text" = "Customer";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "a2p-FW-3Nb"; */
+"a2p-FW-3Nb.text" = "Country";
+
+/* Class = "UILabel"; text = "966-"; ObjectID = "adH-1Q-NO9"; */
+"adH-1Q-NO9.text" = "966-";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "bQl-de-bBJ"; */
+"bQl-de-bBJ.normalTitle" = "SIGN UP";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "fTs-LP-8MS"; */
+"fTs-LP-8MS.placeholder" = "Phone Number";
+
+/* Class = "UILabel"; text = "Forgot Password?"; ObjectID = "lZx-z8-Kau"; */
+"lZx-z8-Kau.text" = "Forgot Password?";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "mqQ-g6-4Hf"; */
+"mqQ-g6-4Hf.normalTitle" = "LOGIN";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "rze-O2-W89"; */
+"rze-O2-W89.normalTitle" = "LOGIN";
+
+/* Class = "UILabel"; text = "Don't have an account? "; ObjectID = "xP0-gH-aS1"; */
+"xP0-gH-aS1.text" = "Don't have an account? ";

@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  Ubream-iOS
+
+  Created by Hassan Ashraf on 9/19/18.
+  Copyright © 2018 Intcore. All rights reserved.
+*/
+
+"LOGIN" = "تسجيل الدخول";
+"SIGN UP" = "إنشاء حساب";
+"Customer" = "مستخدم";
+"Driver" = "سائق";
+
+//SignUPVC
+"First Name" = "الإسم الأول";
+"Last Name" = "الإسم الأخير";
+"Country" = "الدولة";
+"City" = "المدينة";
+"Password" = "كلمة السر";
+"Phone Number" = "رقم الهاتف";
+"Sign Up" = "إنشاء حساب";
+"Please read our" = "من فضلك، إقرأ";
+"Terms and Conditions" = "الإتفاقيات والشروط";
+"966-" = "٩٦٦-";
+
+//Select Country & City VC
+"Select your Country" = "Select your Country";
+"Select your City" = "Select your City";
+
+//ActivationVC
+"Mobile Verification" = "تفعيل الحساب"; 
+"Please full the activation code below" = "من فضلك، أدخل كود التفعيل";
+"ACTIVATE" = "إستمرار";
+"Didn't Receive Activation Code?" = "لم تستقبل الكود؟";
+"Resend" = "أعد إرسال الكود";

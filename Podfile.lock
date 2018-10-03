@@ -1,0 +1,86 @@
+PODS:
+  - Alamofire (4.7.3)
+  - BRYXBanner (0.8.0)
+  - Cache (4.2.0)
+  - CFAlertViewController (3.0)
+  - Cosmos (12.0.1)
+  - DGActivityIndicatorView (2.1.1)
+  - Hue (3.0.1)
+  - Imaginary (3.0.3):
+    - Cache (~> 4.0)
+  - IQKeyboardManagerSwift (6.1.1)
+  - Kingfisher (4.9.0)
+  - Lightbox (2.1.2):
+    - Hue (~> 3.0)
+    - Imaginary (~> 3.0)
+  - Material (2.16.4):
+    - Material/Core (= 2.16.4)
+  - Material/Core (2.16.4):
+    - Motion (~> 1.4.3)
+  - Motion (1.4.3):
+    - Motion/Core (= 1.4.3)
+  - Motion/Core (1.4.3)
+  - NVActivityIndicatorView (4.3.0):
+    - NVActivityIndicatorView/Presenter (= 4.3.0)
+  - NVActivityIndicatorView/Presenter (4.3.0)
+  - Popover (1.2.0)
+  - SnapKit (4.0.1)
+  - SwiftyJSON (4.1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - BRYXBanner
+  - CFAlertViewController
+  - Cosmos (~> 12.0)
+  - DGActivityIndicatorView
+  - IQKeyboardManagerSwift
+  - Kingfisher (~> 4.0)
+  - Lightbox
+  - Material
+  - NVActivityIndicatorView
+  - Popover
+  - SnapKit
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - BRYXBanner
+    - Cache
+    - CFAlertViewController
+    - Cosmos
+    - DGActivityIndicatorView
+    - Hue
+    - Imaginary
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - Lightbox
+    - Material
+    - Motion
+    - NVActivityIndicatorView
+    - Popover
+    - SnapKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  BRYXBanner: 406c3775789136531da6f3c98058be2f16e08a34
+  Cache: f28f8dd64b632155aabf9b3906b036a659048251
+  CFAlertViewController: 460bb12b42b500bb0838e5595ca144a18344765f
+  Cosmos: 4a9f57998a08788a1062c7b8eefbc62d2b590f39
+  DGActivityIndicatorView: ff2c76073d79692f724863c8dd38685866a03cb6
+  Hue: 93e852fa6211ab35922ad8c293f51c43d6c79eb2
+  Imaginary: 9b45836a5af881f452a86e0a1215772ae4712d00
+  IQKeyboardManagerSwift: 977affaeb4d6e971975c7790a6850f31d38f1207
+  Kingfisher: 64539b51826b778206daa6ed815d12653caa69dd
+  Lightbox: 2dc267df8be2285bc7724cb11cbbf4aaaf59dced
+  Material: 4ed78690b09ffd148b5ffab6b4367fb1d8da1cd3
+  Motion: 153ba49692997888556c7a95207278a8b1f8be95
+  NVActivityIndicatorView: 963f62bf9f993fcf23218e55958e5b1761b9504c
+  Popover: 28c1ac8e937ab2b3965bd2da7dd18324357abc41
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+
+PODFILE CHECKSUM: 2277b283ffc8f1490eb5ecd9e5303903ab51e849
+
+COCOAPODS: 1.5.3
